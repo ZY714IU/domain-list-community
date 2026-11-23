@@ -1,6 +1,6 @@
 module github.com/v2fly/domain-list-community
 
-go 1.26.10
+go 1.27.4
 
 require (
 	github.com/v2fly/v2ray-core/v5 v5.56.0
